@@ -30,3 +30,10 @@ This project demonstrates a complete NLP pipeline built in Google Colab, startin
 | pydub              | Converts MP3 → WAV                        |
 | langdetect         | Detects the language of the extracted text|
 | stanza             | NLP tasks – POS, NER, tokenization        |
+
+## 🎧 Audio Dataset
+
+You can download the Hindi audio files used in this project from the following Kaggle dataset:
+
+### 🔗 Common Voice Hindi Dataset
+https://www.kaggle.com/datasets/rahulbhalley/common-voice-hindi
